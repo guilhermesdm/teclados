@@ -85,8 +85,8 @@
 
 | Vista superior |
 |----------------|
-| ![Superior](imagens/upview.png) |
-| ![Inferior](imagens/backview.png) |
+| ![Superior](images/upview.png) |
+| ![Inferior](images/backview.png) |
 
 ---
 

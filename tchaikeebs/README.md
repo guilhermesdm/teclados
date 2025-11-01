@@ -18,7 +18,7 @@
 
 | Quantidade | Item | Observações |
 |-------------|------|-------------|
-| **2 kg** | Filamento PLA | Impressão da case e keycaps |
+| **220g** | Filamento PLA | Impressão da case e keycaps |
 | **12** | Insertos M3x6 | Para fixação da case |
 | **12** | Parafusos M3x6 | Compatíveis com os insertos |
 | **2** | RP2040 Zero | Um para cada metade do teclado |
@@ -27,9 +27,9 @@
 | **54** | Keycaps low profile | Usei [KLP Lame Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) (PLA) |
 | **54** | Switches low profile Redragon |  |
 | **54** | Diodos 1N4148 | Para matriz de teclas |
-| **10 m** | Fio de cobre 16 AWG | Sem esmalte (melhor para linhas principais) |
-| **10 m** | Fio de cobre 28 AWG | Resistente a calor, para ligações finas |
-| **1 m** | Tubo termo retrátil | Isolamento e acabamento |
+| **XX** | Fio de cobre 16 AWG | Sem esmalte (melhor para linhas principais) |
+| **XX** | Fio de cobre 28 AWG | Resistente a calor, para ligações finas |
+| **XX** | Tubo termo retrátil | Isolamento e acabamento |
 | **1** | Cabo USB-C (dados) | Para conexão ao PC |
 
 ---
@@ -81,7 +81,7 @@
 
 ---
 
-## 🖼️ Imagens
+## Imagens
 
 | Vista superior |
 |----------------|

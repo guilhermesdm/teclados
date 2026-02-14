@@ -1,0 +1,12 @@
+file_format: "1"
+id: oldkeebs
+name: Oldkeebs
+type: shield
+url: https://github.com/guilhermesdm/teclados/oldkeebs
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - oldkeebs_left
+  - oldkeebs_right
+  - oldkeebs_dongle

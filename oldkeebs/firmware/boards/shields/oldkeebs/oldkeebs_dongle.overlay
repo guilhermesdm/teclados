@@ -1,18 +1,17 @@
-/*
- * Copyright (c) 2020 Pete Johanson
- *
- * SPDX-License-Identifier: MIT
- */
-
 #include "oldkeebs.dtsi"
+#include "oldkeebs-layouts.dtsi"
+
+&physical_layout0 {
+    transform = <&default_transform>;
+};
 
 / {
     chosen {
         zmk,kscan = &mock_kscan;
-        zmk,matrix-transform = &default_transform;
+        zmk,physical-layout = &physical_layout0;
     };
 
-    mock_kscan: kscan_0 {
+    mock_kscan: kscan_1 {
         compatible = "zmk,kscan-mock";
         columns = <0>;
         rows = <0>;

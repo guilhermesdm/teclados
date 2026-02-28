@@ -1,12 +1,12 @@
 file_format: "1"
 id: oldkeebs
-name: Oldkeebs
+name: OldKeebs
 type: shield
-url: https://github.com/guilhermesdm/teclados/oldkeebs
+url: https://github.com/guilhermesdm/zmk-config-oldkeebs/
 requires: [pro_micro]
 features:
   - keys
 siblings:
+  - oldkeebs_dongle
   - oldkeebs_left
   - oldkeebs_right
-  - oldkeebs_dongle

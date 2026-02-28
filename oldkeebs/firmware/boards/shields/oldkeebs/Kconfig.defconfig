@@ -1,0 +1,16 @@
+if SHIELD_OLDKEEBS_DONGLE
+
+config ZMK_KEYBOARD_NAME
+    default "Oldkeebs"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_OLDKEEBS_DONGLE || SHIELD_OLDKEEBS_LEFT || SHIELD_OLDKEEBS_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
